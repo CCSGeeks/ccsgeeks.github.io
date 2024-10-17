@@ -56,6 +56,12 @@ extra_css:
 
 nav:
   - 主页: index.md
+  - 协会信息:
+    - 主页: intro/index.md
+    - 人员: intro/people.md
+    - 指导老师: intro/mentors.md
+    - 维护项目: intro/project.md
+    - 协会奖项: intro/award.md
   - 即将到来:
     - 主页: upcoming/index.md
   - 历史归档:
@@ -67,6 +73,3 @@ nav:
     - 研讨会 10/11 密码算法与密码系统部研讨会: archive/241011.md
     - 研讨会 10/13 数据库系统与存储系统技术组研讨会: archive/241013_db.md
     - 研讨会 10/13 高性能计算与机器学习系统部研讨会: archive/241013_asc.md
-  - 书籍推荐: materials/main.md
-  - 阅读列表:
-    - LLMSys: readings/llmsys.md
